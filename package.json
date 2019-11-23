@@ -1,0 +1,23 @@
+{
+  "name": "steam-friends-countries",
+  "version": "1.0.0",
+  "description": "steam-friends-countries",
+  "main": "main.js",
+  "author": "Lasse Pedersen",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quer/steam-friends-countries"
+  },
+  "dependencies": {
+    "@google/maps": "^1.0.2",
+    "cheerio": "*",
+    "request": "*",
+    "steam": "^1.4.0",
+    "steam-totp": "*",
+    "steam-weblogon": "*"
+  },
+  "license": "ISC"
+}
