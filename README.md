@@ -5,6 +5,8 @@ Im been using [steam-friends-countries](https://github.com/Holek/steam-friends-c
 
 Go to the like above, to read what this is for.
 
+Last updated: 23-11-2019
+
 Usage
 ======================
 
